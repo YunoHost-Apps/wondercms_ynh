@@ -1,0 +1,50 @@
+{
+    "name": "Wondercms",
+    "id": "wondercms",
+    "packaging_format": 1,
+    "description": {
+        "en": "Fast and small flat file CMS",
+        "fr": "Fast and small flat file CMS"
+    },
+    "version": "3.3.1~ynh1",
+    "url": "https://wondercms.com",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://wondercms.com",
+        "demo": "https://www.wondercms.com/demo/",
+        "admindoc": "https://github.com/robiso/wondercms/wiki",
+        "code": "https://github.com/robiso/wondercms"
+    },
+    "license": "MIT",
+    "maintainer": {
+        "name": "John doe",
+        "email": "john.doe@example.com"
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "php8.0-fpm"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "example": "/wondercms",
+                "default": "/wondercms"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
