@@ -17,8 +17,8 @@
     },
     "license": "MIT",
     "maintainer": {
-        "name": "John doe",
-        "email": "john.doe@example.com"
+        "name": "eric_G",
+        "email": ""
     },
     "requirements": {
         "yunohost": ">= 4.3.0"
