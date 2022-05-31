@@ -4,7 +4,7 @@
     "packaging_format": 1,
     "description": {
         "en": "Fast and small flat file CMS",
-        "fr": "Fast and small flat file CMS"
+        "fr": "CMS rapide sans base de données"
     },
     "version": "3.3.2~ynh1",
     "url": "https://wondercms.com",
