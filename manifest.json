@@ -4,9 +4,9 @@
     "packaging_format": 1,
     "description": {
         "en": "Fast and small flat file CMS",
-        "fr": "Fast and small flat file CMS"
+        "fr": "CMS rapide sans base de données"
     },
-    "version": "3.3.2~ynh1",
+    "version": "3.3.2~ynh2",
     "url": "https://wondercms.com",
     "upstream": {
         "license": "MIT",
@@ -17,8 +17,8 @@
     },
     "license": "MIT",
     "maintainer": {
-        "name": "John doe",
-        "email": "john.doe@example.com"
+        "name": "eric_G",
+        "email": ""
     },
     "requirements": {
         "yunohost": ">= 4.3.0"
