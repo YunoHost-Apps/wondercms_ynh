@@ -17,7 +17,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**Version incluse :** 3.3.2~ynh2
+**Version incluse :** 3.3.2~ynh3
 
 
 **Démo :** https://www.wondercms.com/demo/
