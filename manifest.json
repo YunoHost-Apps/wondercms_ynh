@@ -6,7 +6,7 @@
         "en": "Fast and small flat file CMS",
         "fr": "CMS rapide sans base de données"
     },
-    "version": "3.3.2~ynh3",
+    "version": "3.4.0~ynh1",
     "url": "https://wondercms.com",
     "upstream": {
         "license": "MIT",
