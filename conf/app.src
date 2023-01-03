@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/robiso/wondercms/releases/download/3.3.2/wondercms-332.zip
-SOURCE_SUM=b0352c954e7fd67deb507277322f98de94efcaa00ba4cd434bd377f0adf0797c
+SOURCE_URL=https://github.com/robiso/wondercms/releases/download/3.4.0/wondercms-340.zip
+SOURCE_SUM=a1395cb29368ddb29a5a18ab4f60b6e9422b1f3a3478b2195aec8bcf0b0e48c4
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
