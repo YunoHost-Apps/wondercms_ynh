@@ -5,15 +5,15 @@ It shall NOT be edited by hand.
 
 # Wondercms pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
 [![Installer Wondercms avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Wondercms rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Wondercms rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
@@ -21,16 +21,16 @@ WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't
 
 **Démo :** https://www.wondercms.com/demo/
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Wondercms](./doc/screenshots/.DS_Store)
-![Capture d'écran de Wondercms](./doc/screenshots/WonderCMS-update-screenshot.png)
+![Capture d’écran de Wondercms](./doc/screenshots/.DS_Store)
+![Capture d’écran de Wondercms](./doc/screenshots/WonderCMS-update-screenshot.png)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://wondercms.com>
-* Documentation officielle de l'admin : <https://github.com/robiso/wondercms/wiki>
-* Dépôt de code officiel de l'app : <https://github.com/robiso/wondercms>
+* Site officiel de l’app : <https://wondercms.com>
+* Documentation officielle de l’admin : <https://github.com/robiso/wondercms/wiki>
+* Dépôt de code officiel de l’app : <https://github.com/robiso/wondercms>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_wondercms>
 * Signaler un bug : <https://github.com/YunoHost-Apps/wondercms_ynh/issues>
 
@@ -46,4 +46,4 @@ ou
 sudo yunohost app upgrade wondercms -u https://github.com/YunoHost-Apps/wondercms_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
