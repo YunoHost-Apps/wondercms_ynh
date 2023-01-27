@@ -23,7 +23,6 @@ WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't
 
 ## Captures d’écran
 
-![Capture d’écran de Wondercms](./doc/screenshots/.DS_Store)
 ![Capture d’écran de Wondercms](./doc/screenshots/WonderCMS-update-screenshot.png)
 
 ## Documentations et ressources
