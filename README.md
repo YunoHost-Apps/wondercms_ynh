@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Wondercms for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![Working status](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+
 [![Install Wondercms with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
 *[Lire ce readme en français.](./README_fr.md)*
