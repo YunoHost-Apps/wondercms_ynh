@@ -5,7 +5,7 @@ name = "Wondercms"
 description.en = "Fast and small flat file CMS"
 description.fr = "CMS rapide sans base de données"
 
-version = "3.4.2~ynh1"
+version = "3.4.2~ynh2"
 
 maintainers = ["eric_G"]
 
