@@ -52,4 +52,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.0-curl phpp8.0-gd phpp8.0-zip phpp8.0-mbstring"
+    packages = "php8.0-curl php8.0-gd php8.0-zip php8.0-mbstring"
