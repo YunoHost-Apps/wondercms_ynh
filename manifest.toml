@@ -17,7 +17,7 @@ admindoc = "https://github.com/robiso/wondercms/wiki"
 code = "https://github.com/robiso/wondercms"
 
 [integration]
-yunohost = ">= 11.1.18"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
