@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Wondercms pour YunoHost
 
 [![Niveau d’intégration](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+
 [![Installer Wondercms avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
 *[Read this readme in english.](./README.md)*
@@ -17,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**Version incluse :** 3.4.1~ynh1
+**Version incluse :** 3.4.2~ynh2
 
 **Démo :** https://www.wondercms.com/demo/
 

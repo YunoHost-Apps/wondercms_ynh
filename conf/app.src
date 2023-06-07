@@ -1,7 +1,0 @@
-SOURCE_URL=https://github.com/robiso/wondercms/releases/download/3.4.1/wondercms-341.zip
-SOURCE_SUM=4e3526a7b834d03e5f43808ba6883cb667705026d1095e039a48bba6388a2748
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
-SOURCE_EXTRACT=true
