@@ -31,7 +31,7 @@ WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't
 * Site officiel de l’app : <https://wondercms.com>
 * Documentation officielle de l’admin : <https://github.com/robiso/wondercms/wiki>
 * Dépôt de code officiel de l’app : <https://github.com/robiso/wondercms>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_wondercms>
+* YunoHost Store: <https://apps.yunohost.org/app/wondercms>
 * Signaler un bug : <https://github.com/YunoHost-Apps/wondercms_ynh/issues>
 
 ## Informations pour les développeurs
