@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Wondercms
 
-[![集成程度](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![工作状态](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
 
 [![使用 YunoHost 安装 Wondercms](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
@@ -18,7 +18,7 @@
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**分发版本：** 3.4.3~ynh1
+**分发版本：** 3.4.3~ynh2
 
 **演示：** <https://www.wondercms.com/demo/>
 
