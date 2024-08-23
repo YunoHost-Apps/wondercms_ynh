@@ -16,7 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
+WonderCMS est un CMS extrêmement compact, rapide, réactif et ne nécessite aucune configuration.
 
 **Version incluse :** 3.4.3~ynh2
 
