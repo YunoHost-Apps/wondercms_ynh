@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Wondercms YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/wondercms.svg)](https://dash.yunohost.org/appci/app/wondercms) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
 
 [![Instalatu Wondercms YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**Paketatutako bertsioa:** 3.4.3~ynh1
+**Paketatutako bertsioa:** 3.4.3~ynh2
 
 **Demoa:** <https://www.wondercms.com/demo/>
 
