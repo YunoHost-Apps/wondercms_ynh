@@ -36,7 +36,7 @@ WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/wondercms_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/wondercms_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
