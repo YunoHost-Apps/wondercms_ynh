@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Wondercms YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/wondercms)](https://ci-apps.yunohost.org/ci/apps/wondercms/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/wondercms)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/wondercms)
 
 [![Instalatu Wondercms YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 

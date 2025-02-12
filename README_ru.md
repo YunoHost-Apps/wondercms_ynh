@@ -5,7 +5,9 @@
 
 # Wondercms для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/wondercms)](https://ci-apps.yunohost.org/ci/apps/wondercms/)
+![Состояние работы](https://apps.yunohost.org/badge/state/wondercms)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/wondercms)
 
 [![Установите Wondercms с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 

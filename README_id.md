@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Wondercms untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/wondercms)](https://ci-apps.yunohost.org/ci/apps/wondercms/)
+![Status kerja](https://apps.yunohost.org/badge/state/wondercms)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/wondercms)
 
 [![Pasang Wondercms dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 

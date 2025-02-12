@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Wondercms voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/wondercms)](https://ci-apps.yunohost.org/ci/apps/wondercms/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/wondercms)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/wondercms)
 
 [![Wondercms met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 

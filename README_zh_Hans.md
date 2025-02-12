@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Wondercms
 
-[![集成程度](https://dash.yunohost.org/integration/wondercms.svg)](https://ci-apps.yunohost.org/ci/apps/wondercms/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/wondercms.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/wondercms.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/wondercms)](https://ci-apps.yunohost.org/ci/apps/wondercms/)
+![工作状态](https://apps.yunohost.org/badge/state/wondercms)
+![维护状态](https://apps.yunohost.org/badge/maintained/wondercms)
 
 [![使用 YunoHost 安装 Wondercms](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wondercms)
 
