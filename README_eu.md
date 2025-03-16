@@ -20,7 +20,7 @@ EZ editatu eskuz.
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**Paketatutako bertsioa:** 3.4.3~ynh2
+**Paketatutako bertsioa:** 3.5.0~ynh1
 
 **Demoa:** <https://www.wondercms.com/demo/>
 
