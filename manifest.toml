@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
 packaging_format = 2
 
 id = "wondercms"
@@ -41,10 +43,10 @@ ram.runtime = "50M"
     default = "visitors"
 
 [resources]
-        [resources.sources.main]
-        url = "https://github.com/robiso/wondercms/archive/refs/tags/3.5.0.tar.gz"
-        sha256 = "316b5541ea07ab82010cc1b6a631176a862dba9f57ffc4ff4c1753858273db19"
-        autoupdate.strategy = "latest_github_tag"
+    [resources.sources.main]
+    url = "https://github.com/robiso/wondercms/archive/refs/tags/3.5.0.tar.gz"
+    sha256 = "316b5541ea07ab82010cc1b6a631176a862dba9f57ffc4ff4c1753858273db19"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
