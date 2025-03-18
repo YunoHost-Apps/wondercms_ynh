@@ -20,7 +20,8 @@ Il NE doit PAS être modifié à la main.
 
 WonderCMS est un CMS extrêmement compact, rapide, réactif et ne nécessite aucune configuration.
 
-**Version incluse :** 3.4.3~ynh2
+
+**Version incluse :** 3.5.0~ynh1
 
 **Démo :** <https://www.wondercms.com/demo/>
 
