@@ -20,7 +20,8 @@
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**Поставляемая версия:** 3.4.3~ynh2
+
+**Поставляемая версия:** 3.5.0~ynh1
 
 **Демо-версия:** <https://www.wondercms.com/demo/>
 

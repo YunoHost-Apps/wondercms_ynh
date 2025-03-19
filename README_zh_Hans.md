@@ -20,7 +20,8 @@
 
 WonderCMS is an extremely small flat file CMS. It's fast, responsive and doesn't require any configuration.
 
-**分发版本：** 3.4.3~ynh2
+
+**分发版本：** 3.5.0~ynh1
 
 **演示：** <https://www.wondercms.com/demo/>
 
