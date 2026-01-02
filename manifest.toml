@@ -7,7 +7,7 @@ name = "Wondercms"
 description.en = "Fast and small flat file CMS"
 description.fr = "CMS rapide sans base de données"
 
-version = "3.5.0~ynh1"
+version = "3.6.0~ynh1"
 
 maintainers = []
 
@@ -19,7 +19,7 @@ admindoc = "https://github.com/robiso/wondercms/wiki"
 code = "https://github.com/robiso/wondercms"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -44,8 +44,8 @@ ram.runtime = "50M"
 
 [resources]
     [resources.sources.main]
-    url = "https://github.com/robiso/wondercms/archive/refs/tags/3.5.0.tar.gz"
-    sha256 = "316b5541ea07ab82010cc1b6a631176a862dba9f57ffc4ff4c1753858273db19"
+    url = "https://github.com/robiso/wondercms/archive/refs/tags/3.6.0.tar.gz"
+    sha256 = "2b6640f8ac9f915ff48f206179ec00ed2b04d7e452168ae1711ecaca34cea1ba"
     autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
