@@ -12,7 +12,7 @@ source /usr/share/yunohost/helpers
 ynh_script_progression "Upgrading source files..."
 
 # Download, check integrity, uncompress and patch the source from manifest.toml
-ynh_setup_source --dest_dir="$install_dir"
+ynh_setup_source --dest_dir="$install_dir" --full_replace --keep="data plugins themes"
 
 #=================================================
 # REAPPLY SYSTEM CONFIGURATIONS
