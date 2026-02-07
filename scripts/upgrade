@@ -4,16 +4,26 @@
 # IMPORT GENERIC HELPERS
 #=================================================
 
-
 source /usr/share/yunohost/helpers
+
+themes=""
+for d in "$install_dir/themes"/*; do
+    name="$(basename "$d")"
+    if [ "$name" != "sky" ]; then
+        themes="$themes themes/$name"
+    fi
+done
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
 ynh_script_progression "Upgrading source files..."
 
+ynh_backup_if_checksum_is_different $install_dir/themes/sky/theme.php
+ynh_backup_if_checksum_is_different $install_dir/themes/sky/css/style.css
+
 # Download, check integrity, uncompress and patch the source from manifest.toml
-ynh_setup_source --dest_dir="$install_dir" --full_replace
+ynh_setup_source --dest_dir="$install_dir" --full_replace --keep="data plugins $themes"
 
 #=================================================
 # REAPPLY SYSTEM CONFIGURATIONS
@@ -23,6 +33,12 @@ ynh_script_progression "Upgrading system configurations related to $app..."
 ynh_config_add_phpfpm
 
 ynh_config_add_nginx
+
+#=================================================
+# SKY THEME CHECKSUMS STORE
+#=================================================
+ynh_store_file_checksum $install_dir/themes/sky/theme.php
+ynh_store_file_checksum $install_dir/themes/sky/css/style.css
 
 #=================================================
 # END OF SCRIPT

@@ -23,6 +23,7 @@ yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
+
 ldap = false
 sso = false
 
@@ -57,4 +58,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.3-curl, php8.3-gd, php8.3-zip, php8.3-mbstring"
+    packages = "php8.4-curl, php8.4-gd, php8.4-zip, php8.4-mbstring"
