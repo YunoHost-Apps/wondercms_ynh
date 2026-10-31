@@ -7,7 +7,7 @@ name = "Wondercms"
 description.en = "Fast and small flat file CMS"
 description.fr = "CMS rapide sans base de données"
 
-version = "3.6.0~ynh1"
+version = "3.7.1~ynh1"
 
 maintainers = []
 
@@ -45,8 +45,8 @@ ram.runtime = "50M"
 
 [resources]
     [resources.sources.main]
-    url = "https://github.com/robiso/wondercms/archive/refs/tags/3.6.0.tar.gz"
-    sha256 = "2b6640f8ac9f915ff48f206179ec00ed2b04d7e452168ae1711ecaca34cea1ba"
+    url = "https://github.com/robiso/wondercms/archive/refs/tags/3.7.1.tar.gz"
+    sha256 = "4e6776096c8a087324b130b611949828725a33f62965b29463fe42fbe3abbd0a"
     autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
